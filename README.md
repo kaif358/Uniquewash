@@ -4,7 +4,7 @@ A modern, responsive landing page for a car wash business, built with HTML, CSS,
 
 ## 📸 Preview
 
-![Website Screenshot](assets/images/screenshot.jpg) <!-- Replace with actual screenshot path -->
+![Website Screenshot](assets/images/webpage.png)
 
 ## 🔗 Live Demo
 
